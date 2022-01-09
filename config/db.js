@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 
-
 const db = function () {
     return process.env.NODE_ENV === 'production'
         ? process.env.MONGO_URI

@@ -11,7 +11,7 @@
     "devcamper",
     "api"
   ],
-  "author": "Prince Sly",
+  "author": "Sylvanus Etim <iamprincesly@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
